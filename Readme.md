@@ -44,8 +44,8 @@ Currently, this repository includes two projects, with more planned as the learn
 
 | # | Project | Type | Key Algorithms | Status |
 |---|---|---|---|---|
-| 01 | 🏠 House Price Prediction | Regression | Linear Regression, Ridge/Lasso | ✅ Complete |
-| 02 | 💳 Credit Card Fraud Detection | Classification (Imbalanced) | Logistic Regression, Random Forest, SMOTE | ✅ Complete |
+| 01 | 🏠 House Price Prediction | Regression | Linear Regression, Ridge/Lasso | Inprogress |
+| 02 | 💳 Credit Card Fraud Detection | Classification (Imbalanced) | Logistic Regression, Random Forest, SMOTE |Inprogress|
 
 **Legend:** ✅ Complete &nbsp;|&nbsp; 🚧 In Progress &nbsp;|&nbsp; 📝 Planned
 
@@ -86,22 +86,6 @@ Currently, this repository includes two projects, with more planned as the learn
 | 🐍 Python | 3.7+ |
 | 📓 Jupyter Notebook | Latest |
 | 📦 Libraries | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn |
-
-### ⚙️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/INCYBIC-TC/LLM_from_scratch.git
-cd "LLM_from_scratch/machine learning"
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch Jupyter
-jupyter notebook
-```
-
----
 
 ## 🔄 ML Workflow
 
